@@ -4,7 +4,7 @@ AgarioChat
 [2]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon
 [3]: https://addons.mozilla.org/en-Us/firefox/addon/greasemonkey/
 [4]: https://addons.opera.com/en/extensions/details/violent-monkey/
-[5]: http://62.75.165.76/AgarChat.user.js/
+[5]: http://62.75.165.76/AgarChat.user.js
 
 
 Client
