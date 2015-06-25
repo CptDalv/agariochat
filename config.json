@@ -1,0 +1,6 @@
+{
+	"port": 8080,
+	"maxclient": 1000,
+	"waitMsg": 2000,
+	"unnamed": "An Unnamed Cell" 
+}
