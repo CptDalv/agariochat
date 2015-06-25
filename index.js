@@ -1,13 +1,6 @@
 var Commands = require('./CommandList');
 var ChatServer = require('./ChatServer');
 
-// Handle arguments
-process.argv.forEach(function(val) {
-	if (val == "--value") {
-
-	}
-});
-
 var chatServer = new ChatServer();
 chatServer.start();
 chatServer.commands = Commands.list;
